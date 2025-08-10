@@ -1,0 +1,92 @@
+[
+  {
+    "ID": 1,
+    "Nombre": "Camarón tempura Roll",
+    "Descripción": "Un roll delicioso de camarón",
+    "Ingredientes": "Camarones tempura jumbo, surimi y queso crema",
+    "Precio": "₡ 7 800",
+    "Porcion": "10 piezas",
+    "Ruta": "resources/media/ProductImages/Meal_1.png"
+  },
+  {
+    "ID": 2,
+    "Nombre": "Criollo Roll",
+    "Descripción": "Un platillo perfecto para los amantes del platano maduro",
+    "Ingredientes": "Platano maduro, atún (de conserva), cebollino y queso crema",
+    "Precio": "₡ 6 200",
+    "Porcion": "10 piezas",
+    "Ruta": "resources/media/ProductImages/Meal_2.png"
+  },
+  {
+    "ID": 3,
+    "Nombre": "Atún Roll",
+    "Descripción": "Para los amantes del picante",
+    "Ingredientes": "Atún, takis molidos, queso crema, pepino y zanahoria",
+    "Precio": "₡ 6 900",
+    "Porcion": "8 piezas",
+    "Ruta": "resources/media/ProductImages/Meal_3.png"
+  },
+  {
+    "ID": 4,
+    "Nombre": "Prosciutto Roll",
+    "Descripción": "Un gran sabor a carne!",
+    "Ingredientes": "Prosciutto, queso crema y semillas de ajonjolí",
+    "Precio": "₡ 8 200",
+    "Porcion": "10 piezas",
+    "Ruta": "resources/media/ProductImages/Meal_4.png"
+  },
+  {
+    "ID": 5,
+    "Nombre": "Salmón Roll",
+    "Descripción": "Para los amantes del salmón!",
+    "Ingredientes": "Salmón, pepino, zanahoria, queso crema, gengibre y semillas de ajonjolí",
+    "Precio": "₡ 9 400",
+    "Porcion": "10 piezas",
+    "Ruta": "resources/media/ProductImages/Meal_5.png"
+  },
+  {
+    "ID": 6,
+    "Nombre": "Crispy pechuga Roll",
+    "Descripción": "Para los amantes del pollo!",
+    "Ingredientes": "Pollo empanizado, salsa de anguila, pepino y zanahoria",
+    "Precio": "₡ 6 500",
+    "Porcion": "12 piezas",
+    "Ruta": "resources/media/ProductImages/Meal_6.png"
+  },
+  {
+    "ID": 7,
+    "Nombre": "Tamago Roll",
+    "Descripción": "Para los amantes del huevo!",
+    "Ingredientes": "Huevo, surimi, queso crema, cebollino y salsa de anguila",
+    "Precio": "₡ 5 200",
+    "Porcion": "10 piezas",
+    "Ruta": "resources/media/ProductImages/Meal_7.png"
+  },
+  {
+    "ID": 8,
+    "Nombre": "Vegenuts Roll",
+    "Descripción": "Para los amantes de los frutos secos!",
+    "Ingredientes": "Aguacate, semillas mixtas, arándanos deshidratados, semillas de marañon, semillas de calabaza, pecanas, pistacho y semillas de ajonjoli",
+    "Precio": "₡ 6 800",
+    "Porcion": "10 piezas",
+    "Ruta": "resources/media/ProductImages/Meal_8.png"
+  },
+  {
+    "ID": 9,
+    "Nombre": "Ramen",
+    "Descripción": "Para los amantes del Ramen!",
+    "Ingredientes": "Huevo duro, alga, fideos, caldo de pollo y yuca",
+    "Precio": "₡ 5 000",
+    "Porcion": "1 tazón",
+    "Ruta": "resources/media/ProductImages/Meal_9.png"
+  },
+  {
+    "ID": 10,
+    "Nombre": "Caldosas",
+    "Descripción": "Para los amantes de las picaritas.",
+    "Ingredientes": "Picaritas, ceviche y semillas de ajonjolí",
+    "Precio": "₡ 2 500",
+    "Porcion": "1 paquete",
+    "Ruta": "resources/media/ProductImages/Meal_10.png"
+  }
+]
