@@ -2,91 +2,91 @@
   {
     "ID": 1,
     "Nombre": "Camarón tempura Roll",
-    "Descripción": "Un roll delicioso de camarón",
+    "Descripción": "Crujientes camarones tempura jumbo envueltos con surimi y suave queso crema, un bocado irresistible.",
     "Ingredientes": "Camarones tempura jumbo, surimi y queso crema",
     "Precio": "₡ 7 800",
     "Porcion": "10 piezas",
-    "Ruta": "resources/media/ProductImages/Meal_1.png"
+    "Ruta": "media/ProductImages/Meal_1.png"
   },
   {
     "ID": 2,
     "Nombre": "Criollo Roll",
-    "Descripción": "Un platillo perfecto para los amantes del platano maduro",
+    "Descripción": "La dulzura del plátano maduro combinada con atún, cebollino y queso crema, un sabor tropical único.",
     "Ingredientes": "Platano maduro, atún (de conserva), cebollino y queso crema",
     "Precio": "₡ 6 200",
     "Porcion": "10 piezas",
-    "Ruta": "resources/media/ProductImages/Meal_2.png"
+    "Ruta": "media/ProductImages/Meal_2.png"
   },
   {
     "ID": 3,
     "Nombre": "Atún Roll",
-    "Descripción": "Para los amantes del picante",
+    "Descripción": "Fresco atún con un toque picante de takis molidos, suavizado con queso crema y vegetales frescos.",
     "Ingredientes": "Atún, takis molidos, queso crema, pepino y zanahoria",
     "Precio": "₡ 6 900",
     "Porcion": "8 piezas",
-    "Ruta": "resources/media/ProductImages/Meal_3.png"
+    "Ruta": "media/ProductImages/Meal_3.png"
   },
   {
     "ID": 4,
     "Nombre": "Prosciutto Roll",
-    "Descripción": "Un gran sabor a carne!",
+    "Descripción": "Delicado prosciutto con queso crema y un toque crujiente de semillas de ajonjolí, un lujo en cada bocado.",
     "Ingredientes": "Prosciutto, queso crema y semillas de ajonjolí",
     "Precio": "₡ 8 200",
     "Porcion": "10 piezas",
-    "Ruta": "resources/media/ProductImages/Meal_4.png"
+    "Ruta": "media/ProductImages/Meal_4.png"
   },
   {
     "ID": 5,
     "Nombre": "Salmón Roll",
-    "Descripción": "Para los amantes del salmón!",
+    "Descripción": "Fresco salmón con pepino, zanahoria, queso crema y un toque de gengibre y ajonjolí para un sabor vibrante.",
     "Ingredientes": "Salmón, pepino, zanahoria, queso crema, gengibre y semillas de ajonjolí",
     "Precio": "₡ 9 400",
     "Porcion": "10 piezas",
-    "Ruta": "resources/media/ProductImages/Meal_5.png"
+    "Ruta": "media/ProductImages/Meal_5.png"
   },
   {
     "ID": 6,
     "Nombre": "Crispy pechuga Roll",
-    "Descripción": "Para los amantes del pollo!",
+    "Descripción": "Crujiente pollo empanizado con salsa de anguila y vegetales frescos para un roll lleno de sabor.",
     "Ingredientes": "Pollo empanizado, salsa de anguila, pepino y zanahoria",
     "Precio": "₡ 6 500",
     "Porcion": "12 piezas",
-    "Ruta": "resources/media/ProductImages/Meal_6.png"
+    "Ruta": "media/ProductImages/Meal_6.png"
   },
   {
     "ID": 7,
     "Nombre": "Tamago Roll",
-    "Descripción": "Para los amantes del huevo!",
+    "Descripción": "Esponjoso huevo tamago con surimi, queso crema y cebollino, bañado en salsa de anguila.",
     "Ingredientes": "Huevo, surimi, queso crema, cebollino y salsa de anguila",
     "Precio": "₡ 5 200",
     "Porcion": "10 piezas",
-    "Ruta": "resources/media/ProductImages/Meal_7.png"
+    "Ruta": "media/ProductImages/Meal_7.png"
   },
   {
     "ID": 8,
     "Nombre": "Vegenuts Roll",
-    "Descripción": "Para los amantes de los frutos secos!",
+    "Descripción": "Colorido roll de aguacate con mezcla de semillas y frutos secos, perfecto para un sabor saludable y energético.",
     "Ingredientes": "Aguacate, semillas mixtas, arándanos deshidratados, semillas de marañon, semillas de calabaza, pecanas, pistacho y semillas de ajonjoli",
     "Precio": "₡ 6 800",
     "Porcion": "10 piezas",
-    "Ruta": "resources/media/ProductImages/Meal_8.png"
+    "Ruta": "media/ProductImages/Meal_8.png"
   },
   {
     "ID": 9,
     "Nombre": "Ramen",
-    "Descripción": "Para los amantes del Ramen!",
+    "Descripción": "Reconfortante tazón de fideos en caldo de pollo, con huevo duro, alga y un toque único de yuca.",
     "Ingredientes": "Huevo duro, alga, fideos, caldo de pollo y yuca",
     "Precio": "₡ 5 000",
     "Porcion": "1 tazón",
-    "Ruta": "resources/media/ProductImages/Meal_9.png"
+    "Ruta": "media/ProductImages/Meal_9.png"
   },
   {
     "ID": 10,
     "Nombre": "Caldosas",
-    "Descripción": "Para los amantes de las picaritas.",
+    "Descripción": "Crujientes picaritas rellenas de fresco ceviche, un antojo diferente y delicioso.",
     "Ingredientes": "Picaritas, ceviche y semillas de ajonjolí",
     "Precio": "₡ 2 500",
     "Porcion": "1 paquete",
-    "Ruta": "resources/media/ProductImages/Meal_10.png"
+    "Ruta": "media/ProductImages/Meal_10.png"
   }
 ]
